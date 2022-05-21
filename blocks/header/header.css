@@ -1,4 +1,9 @@
 .header {
-    
-    
+    display: flex;
+    margin: 28px 48px 56px; 
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    max-width: 1184px;
+    border: 1px solid red;
 }
