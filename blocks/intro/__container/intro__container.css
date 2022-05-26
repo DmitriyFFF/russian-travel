@@ -1,0 +1,27 @@
+.intro__container {
+  display: flex;
+  flex-direction: column;
+  max-width: 690px;
+  margin-left: 148px;
+}
+
+@media screen and (max-width: 1024px) {
+  .intro__container {
+    margin-left: 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro__container {
+    margin: 0 24px 0;
+    max-width: 720px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro__container {
+    margin: 0 16px 0;
+
+  }
+}
+
