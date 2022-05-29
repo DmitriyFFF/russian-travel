@@ -21,3 +21,5 @@ ___
 - Браузеры: Google Chrome, Яндекс Браузер, Opera,
   Mozilla Firefox, Edge, IE и др.
 - Разрешения экрана: 1280, 1024, 768, 320
+
+[Ссылка на GitHub Pages](https://dmitriyfff.github.io/russian-travel/)
