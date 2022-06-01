@@ -3,19 +3,12 @@
   line-height: 1.2;
   color: #fff;
   max-width: 360px;
-  margin: 32px auto 245px;
-}
-
-@media screen and (max-width: 768px) {
-  .cover__subtitle {
-    margin-bottom: 115px;
-  }
+  margin: 0;
 }
 
 @media screen and (max-width: 320px) {
   .cover__subtitle {
     font-size: 14px;
     line-height: 1.14;
-    margin: 16px auto 33px;
   }
 }
