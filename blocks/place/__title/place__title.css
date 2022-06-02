@@ -4,6 +4,7 @@
   font-weight: 900;
   align-self: flex-end;
   margin: 0;
+  padding-right: 20px;
 }
 
 @media screen and (max-width: 768px) {

@@ -20,11 +20,13 @@
 @media screen and (max-width: 768px) {
   .cover {
     max-height: 480px;
+    margin-top: 90px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover {
     max-height: 200px;
+    margin-top: 66px;
   }
 }
